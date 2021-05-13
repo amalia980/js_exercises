@@ -1,0 +1,12 @@
+input {
+    width: 3rem;
+    height: 1rem;
+}
+
+#input7 {
+    background-color: lightskyblue;
+}
+
+#input8 {
+    background-color: lightcoral;
+}
